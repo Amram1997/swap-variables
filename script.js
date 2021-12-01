@@ -20,3 +20,4 @@ swap = x;
 x = y;
 y = swap;
 console.log(x,y)
+// x = 3 ; y = 10 ;
